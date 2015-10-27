@@ -17,5 +17,13 @@
     "bitcoin"
   ],
   "author": "Neel Krishnan",
-  "license": "GPL"
+  "license": "GPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neel-digitalbtc/reorder_digitalx.git"
+  },
+  "bugs": {
+    "url": "https://github.com/neel-digitalbtc/reorder_digitalx/issues"
+  },
+  "homepage": "https://github.com/neel-digitalbtc/reorder_digitalx"
 }
