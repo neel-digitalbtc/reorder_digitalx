@@ -1,0 +1,10 @@
+{
+    "wallet" : "YOUR WALLET ADDRESS HERE",
+    "key" : "YOUR DIGITALX API KEY HERE",
+    "secret" : "YOUR DIGITALX API SECRET HERE",
+    "threshold" : 10.0,
+    "top_up_amount" : 15.0,
+    "minimum_order_spacing" : 45.0,
+    "max_price" : 1000.0
+
+}

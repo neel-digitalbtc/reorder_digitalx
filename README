@@ -1,0 +1,8 @@
+This node module can be used to order BTC from digitalX Direct API
+based on the level of a given wallet balance. In config.json, set the
+wallet address to be checked, the digitalX API key and secret, the value
+below which to order more BTC ('threshold'), the minimum amount of minutes
+that you want to pass before another order can be placed, and the max
+price to tolerate. 
+
+Please direct all questions to neel@digitalx.com. 

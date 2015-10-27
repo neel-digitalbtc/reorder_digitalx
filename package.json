@@ -1,0 +1,21 @@
+{
+  "name": "reorder_digitalx",
+  "version": "1.0.0",
+  "description": "Reorder BTC from the digitalX Direct API based on the level of a wallet balance.",
+  "main": "reorder.js",
+  "dependencies": {
+    "digitalx": "^0.0.1",
+    "node-blockr": "^0.1.2"
+  },
+  "devDependencies": {
+    "tap": "^0.5.0"
+  },
+  "scripts": {
+    "test": "node test_digitalx.js"
+  },
+  "keywords": [
+    "bitcoin"
+  ],
+  "author": "Neel Krishnan",
+  "license": "GPL"
+}
