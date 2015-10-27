@@ -5,4 +5,7 @@ below which to order more BTC ('threshold'), the minimum amount of minutes
 that you want to pass before another order can be placed, and the max
 price to tolerate. 
 
+reorder.js is the main script, test_digitalx.js runs some test calls to the 
+digitalX API, including a order for .001 to the user's default wallet.
+
 Please direct all questions to neel@digitalx.com. 
