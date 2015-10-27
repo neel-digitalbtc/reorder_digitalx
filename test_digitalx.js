@@ -1,7 +1,7 @@
 var Digitalx = require('digitalx');
 
 /*var digitalx = new Digitalx(key, secret);*/
-var digitalx = new Digitalx('DEtGb3Mr7yvy45jy7WJhDsdnCAFBMlQrkwMRrTkRzQo', 'O4H8dgGmSsghYGivMmsFeQlMHCHTIcPQxvq5F5JCXrU');
+var digitalx = new Digitalx('', '');
 
 
 digitalx.price("buy",
